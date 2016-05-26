@@ -1,0 +1,19 @@
+.main-h1 {
+  font-size: 48px;
+}
+
+#something {
+  /* This is how we select and element by ID */
+}
+
+p:hover {
+  color: pink;
+}
+
+a:link {
+  /* this will change the color of a link */
+}
+
+a:visited {
+  /* this will change the color of a visited link */
+}
